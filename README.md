@@ -26,7 +26,7 @@ Soy un estudiante de programación apasionado por la tecnología, el desarrollo 
 
 ## 📚 Actualmente aprendiendo...
 
-- 🔍 python proxima mente aprendere java, javascrip
+- 🔍 python proximamente aprendere java, javascrip
 - 📖 Mejores prácticas de programación
 - ⚙️ Estructuras de datos y algoritmos
 

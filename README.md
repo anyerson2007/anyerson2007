@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy ANYERSON CONTRERAS 👨‍💻
+# 👋 ANYERSON CONTRERAS 👨‍💻
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=3000&pause=1000&color=38F79C&width=435&lines=ANYERSON+CONTRERAS%F0%9F%92%8E%E2%80%8B;ESTUDIANTE+T%C3%89CNICO%E2%80%8B%E2%80%8B%F0%9F%93%9A%E2%80%8B;EN+PROGRAMACI%C3%93N+DE+SOFTWARE%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%80%8B;FAN%C3%81TICO+AL+CONOCIMIENTO%F0%9F%8E%AE%E2%80%8B%F0%9F%8E%AE%E2%80%8B" alt="Typing SVG" /></a>
 
 

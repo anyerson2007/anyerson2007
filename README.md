@@ -1,12 +1,11 @@
 
-
 <div align="center">
 
 # 👋 ¡Hola! Soy Anyerson Contreras
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38F79C&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+en+Desarrollo+de+Software;Bases+de+Datos+y+Automatizaci%C3%B3n;Explorando+la+Inteligencia+Artificial;Construyendo+soluciones+tecnol%C3%B3gicas" alt="Presentación animada" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38F79C&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+en+Desarrollo+de+Software;Backend+y+Bases+de+Datos;Automatizaci%C3%B3n+de+Procesos;Explorando+la+Inteligencia+Artificial" alt="Presentación animada" />
 
-### 💻 Desarrollo de Software | 🗄️ Bases de Datos | 🤖 Automatización e IA
+### 💻 Desarrollo de Software | 🗄️ Bases de Datos | ⚙️ Automatización | 🤖 IA
 
 </div>
 
@@ -14,21 +13,22 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Anyerson Contreras**, Técnico en Desarrollo de Software con conocimientos fundamentales en programación, bases de datos, automatización de procesos y uso de herramientas de inteligencia artificial.
+Soy **Anyerson Contreras**, Técnico en Desarrollo de Software con conocimientos en programación, desarrollo backend, gestión de bases de datos relacionales, automatización de procesos y uso de herramientas de inteligencia artificial.
 
-Me enfoco en desarrollar soluciones tecnológicas funcionales, eficientes y escalables, aplicando buenas prácticas de programación y pensamiento lógico.
+Cuento con bases en tecnologías como **Python, Java, Spring Boot, SQL y HTTP**, además de herramientas para la administración de bases de datos y la creación de flujos automatizados.
 
-Busco fortalecer continuamente mis capacidades técnicas, explorar nuevas herramientas y adquirir experiencia mediante el desarrollo de proyectos prácticos.
+Me enfoco en el desarrollo de soluciones tecnológicas funcionales, la optimización de procesos y la aplicación de buenas prácticas de programación.
 
 - 📍 **Ubicación:** Cúcuta, Colombia 🇨🇴
 - 🎓 **Formación:** Técnico en Desarrollo de Software.
-- 💡 **Intereses:** Desarrollo backend, bases de datos, automatización e inteligencia artificial.
-- 📚 **Aprendizaje:** Formación continua y desarrollo de nuevas competencias.
-- 🎯 **Objetivo profesional:** Especializarme en el diseño y desarrollo de soluciones de software que optimicen procesos y resuelvan necesidades reales.
+- 💻 **Áreas de interés:** Backend, bases de datos, APIs y automatización.
+- ⚙️ **Automatización:** n8n y Microsoft Power Platform.
+- 🤖 **Inteligencia artificial:** Aplicación de herramientas de IA en procesos y desarrollo.
+- 📚 **Intereses personales:** Lectura, aprendizaje continuo y resolución de problemas.
 
 ---
 
-## 🛠️ Mis conocimientos tecnológicos
+## 🛠️ Tecnologías y herramientas
 
 ### 💻 Lenguajes de programación
 
@@ -38,36 +38,53 @@ Busco fortalecer continuamente mis capacidades técnicas, explorar nuevas herram
 
 </div>
 
-### 🌐 Desarrollo web
+### 🌐 Desarrollo web y backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML y CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,spring" alt="HTML, CSS y Spring Boot" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HTTP-Protocol-005C9C?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="HTTP" />
+
+<img src="https://img.shields.io/badge/REST-APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 
 </div>
 
-### 🗄️ Bases de datos
+### 🗄️ Bases de datos y administración
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 
+<br>
+
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+
+<img src="https://img.shields.io/badge/Navicat-Database_Tool-1F77B4?style=for-the-badge" alt="Navicat" />
+
 </div>
 
-### ⚙️ Herramientas de desarrollo
+### ⚙️ Automatización de procesos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code" />
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+<img src="https://img.shields.io/badge/Microsoft_Power_Platform-Automation-742774?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Microsoft Power Platform" />
 
 </div>
 
-### 🤖 Automatización e inteligencia artificial
+### 🔧 Herramientas de desarrollo
 
-- Fundamentos de automatización de procesos.
-- Uso de herramientas de inteligencia artificial.
-- Aplicación de IA como apoyo al desarrollo de software.
-- Exploración de soluciones que permitan optimizar tareas repetitivas.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, Visual Studio Code y Postman" />
+
+</div>
 
 ---
 
@@ -75,29 +92,31 @@ Busco fortalecer continuamente mis capacidades técnicas, explorar nuevas herram
 
 | Área | Conocimientos |
 |---|---|
-| 💻 Programación | Lógica, algoritmos y fundamentos de desarrollo |
-| 🗄️ Bases de datos | SQL, consultas y bases de datos relacionales |
-| 🌐 Desarrollo web | HTML, CSS y fundamentos de JavaScript |
-| ⚙️ Automatización | Conceptos y automatización básica de procesos |
-| 🤖 Inteligencia artificial | Uso de herramientas de IA aplicadas a productividad y programación |
+| 💻 Programación | Python, Java y JavaScript |
+| ☕ Backend | Spring Boot, HTTP y fundamentos de APIs REST |
+| 🌐 Desarrollo web | HTML y CSS |
+| 🗄️ Bases de datos | SQL, MySQL y bases de datos relacionales |
+| 🛠️ Administración de BD | MySQL Workbench y Navicat |
+| ⚙️ Automatización | n8n y Microsoft Power Platform |
+| 🤖 Inteligencia artificial | Uso e integración de herramientas de IA |
 | 🔧 Control de versiones | Git y GitHub |
-| 🧩 Resolución de problemas | Análisis lógico y desarrollo de soluciones |
+| 🧩 Análisis | Lógica de programación y resolución de problemas |
 
 ---
 
 ## 🚀 Tecnologías que quiero dominar
 
-Mi objetivo es ampliar mis conocimientos y especializarme progresivamente en tecnologías utilizadas en el desarrollo de software profesional.
+Mi objetivo es ampliar mis capacidades técnicas y profundizar en tecnologías para el desarrollo de soluciones modernas, escalables y automatizadas.
 
 <div align="center">
 
-### 🏗️ Backend y desarrollo de APIs
+### 🏗️ Desarrollo backend avanzado
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,nodejs" alt="Python, Java, FastAPI, Spring y Node.js" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="FastAPI, Node.js y Express" />
 
-### 🌐 Desarrollo frontend
+### 🌐 Desarrollo frontend moderno
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" alt="JavaScript, TypeScript, React y Next.js" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs" alt="TypeScript, React y Next.js" />
 
 ### 🗃️ Bases de datos avanzadas
 
@@ -107,54 +126,26 @@ Mi objetivo es ampliar mis conocimientos y especializarme progresivamente en tec
 
 <img src="https://skillicons.dev/icons?i=docker,linux,aws,githubactions" alt="Docker, Linux, AWS y GitHub Actions" />
 
-### 🤖 Inteligencia artificial y automatización
+### 🤖 Machine Learning e inteligencia artificial
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch y TensorFlow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch y TensorFlow" />
 
 </div>
 
 ---
 
-## 🎯 Mi ruta de crecimiento profesional
-
-**01. Desarrollo de software**
-- Fortalecer programación orientada a objetos.
-- Aplicar principios SOLID y código limpio.
-- Desarrollar APIs REST y aplicaciones backend.
-
-**02. Ingeniería de bases de datos**
-- Dominar SQL avanzado y optimización de consultas.
-- Profundizar en modelado y normalización.
-- Aprender administración y rendimiento de bases de datos.
-
-**03. Automatización de procesos**
-- Desarrollar scripts de automatización con Python.
-- Integrar sistemas mediante APIs.
-- Crear flujos de trabajo automatizados.
-
-**04. Inteligencia artificial**
-- Profundizar en integración de modelos de IA.
-- Explorar aplicaciones basadas en modelos de lenguaje.
-- Aprender fundamentos de machine learning.
-
-**05. Arquitectura y despliegue**
-- Comprender arquitectura de software.
-- Aprender Docker y servicios en la nube.
-- Implementar pruebas y despliegues automatizados.
-
----
-
 ## 📂 Proyectos y experiencia práctica
 
-Actualmente continúo fortaleciendo mi experiencia mediante ejercicios técnicos y proyectos enfocados en:
+Mis áreas de práctica y desarrollo incluyen:
 
-- 🗄️ Gestión y consultas de bases de datos SQL.
-- 🐍 Desarrollo de soluciones utilizando Python.
-- ⚙️ Automatización de tareas y procesos.
-- 🌐 Construcción de aplicaciones web.
-- 🤖 Exploración de herramientas de inteligencia artificial.
+- 🗄️ **Bases de datos:** diseño de tablas, relaciones y consultas SQL.
+- ☕ **Backend:** desarrollo con Java y Spring Boot.
+- 🌐 **Servicios web:** uso de HTTP y fundamentos de APIs.
+- ⚙️ **Automatización:** construcción de flujos con n8n y Microsoft Power Platform.
+- 🐍 **Python:** programación, lógica y solución de problemas.
+- 🤖 **Inteligencia artificial:** uso de IA para apoyar tareas técnicas y optimizar procesos.
 
-> Mi enfoque es transformar el conocimiento adquirido en soluciones prácticas, documentadas y con posibilidades de crecimiento.
+> Me interesa construir soluciones que combinen desarrollo de software, bases de datos y automatización para resolver necesidades reales.
 
 ---
 
@@ -176,7 +167,7 @@ Actualmente continúo fortaleciendo mi experiencia mediante ejercicios técnicos
 
 [![Email](https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anyersonc2007@email.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ver_repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Mis_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
 
 </div>
 
@@ -184,11 +175,10 @@ Actualmente continúo fortaleciendo mi experiencia mediante ejercicios técnicos
 
 <div align="center">
 
-### 🚀 Gracias por visitar mi perfil
+### ⭐ ¡Gracias por visitar mi perfil!
 
-**Aprendizaje continuo · Desarrollo de software · Innovación**
+**Desarrollo de Software · Bases de Datos · Automatización · Inteligencia Artificial**
 
-*Construyendo conocimientos, desarrollando soluciones.*
+*Aprendiendo, desarrollando e innovando continuamente.*
 
 </div>
-
